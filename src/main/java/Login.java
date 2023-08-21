@@ -10,7 +10,7 @@ public class Login extends JFrame implements ActionListener {
     JButton rules,back;
     JTextField tfname;
     // we make a constructor of login class and inside of constructor class we write description of frame
-
+    // start here
     public Login(){
         // to make our own layout we have to write this and this take where we have to place icon on frame,
         setBounds(200,200,1200,466);

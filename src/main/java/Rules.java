@@ -7,7 +7,7 @@ public class Rules extends JFrame implements ActionListener {
 
     String name;
     JButton back,start;
-
+    //start here
     Rules(String name){
 
         getContentPane().setBackground(Color.WHITE);
