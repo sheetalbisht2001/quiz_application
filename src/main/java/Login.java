@@ -80,7 +80,7 @@ public class Login extends JFrame implements ActionListener {
         }
     }
     public static void main(String[] args){
-        new Login();// we make an anonymous object of  login class
+        new Login();      // we make an anonymous object of  login class
 
     }
 }
